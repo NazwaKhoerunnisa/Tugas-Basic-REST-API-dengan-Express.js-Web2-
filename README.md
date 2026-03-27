@@ -14,3 +14,12 @@
   4. Body response (JSON) yang tampil di panel kanan.
 - Gunakan mode gelap agar kontras teks lebih jelas.
 - Tambahkan keterangan singkat pada setiap screenshot: apa yang diuji, dan hasil yang diharapkan.
+
+## 🖼️ Screenshot Thunder Client
+
+![Screenshot 1448](screenshot/Screenshot (1448).png)
+![Screenshot 1449](screenshot/Screenshot (1449).png)
+![Screenshot 1450](screenshot/Screenshot (1450).png)
+![Screenshot 1451](screenshot/Screenshot (1451).png)
+![Screenshot 1452](screenshot/Screenshot (1452).png)
+
